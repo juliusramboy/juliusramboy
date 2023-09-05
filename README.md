@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliusramboy
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 
 <!---
 juliusramboy/juliusramboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
